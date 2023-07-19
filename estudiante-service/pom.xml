@@ -55,11 +55,6 @@
 		    <groupId>org.springframework.cloud</groupId>
 		    <artifactId>spring-cloud-starter-bootstrap</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>curso-service</groupId>
-			<artifactId>curso-service</artifactId>
-			<version>1.0</version>
-		</dependency>
 	</dependencies>
 
 	<build>
